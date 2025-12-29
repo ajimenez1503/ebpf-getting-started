@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# eBPF Beginner Skill Path
+labs/eBPF-Beginner-Skill-Path/*/vmlinux.h
+labs/eBPF-Beginner-Skill-Path/*/hello_bpf.*
+labs/eBPF-Beginner-Skill-Path/*/vmlinux.h
+labs/eBPF-Beginner-Skill-Path/*/hello_bpf.*
+labs/eBPF-Beginner-Skill-Path/*/vendor
+labs/eBPF-Beginner-Skill-Path/*/linux
+labs/eBPF-Beginner-Skill-Path/*/go.mod 
+labs/eBPF-Beginner-Skill-Path/*/go.sum

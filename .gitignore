@@ -224,6 +224,9 @@ running-ebpf-in-mac/examples/counter/counter_bpfel.o
 running-ebpf-in-mac/examples/counter/counter_bpfeb.o
 running-ebpf-in-mac/examples/counter/counter_bpfel.go
 running-ebpf-in-mac/examples/counter/counter_bpfeb.go
+running-ebpf-in-mac/examples/counter/counter
+examples/kprobe/kprobe.o
+examples/kprobe/kprobe
 
 
 # eBPF Beginner Skill Path

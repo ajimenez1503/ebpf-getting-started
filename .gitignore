@@ -206,6 +206,25 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Go
+# Binaries for programs and tests
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+# Go workspace metadata (keep go.mod/go.sum)
+go.work
+go.work.sum
+
+# Generated eBPF artifacts
+running-ebpf-in-mac/examples/counter/counter_bpfel.o
+running-ebpf-in-mac/examples/counter/counter_bpfeb.o
+running-ebpf-in-mac/examples/counter/counter_bpfel.go
+running-ebpf-in-mac/examples/counter/counter_bpfeb.go
+
 
 # eBPF Beginner Skill Path
 labs/eBPF-Beginner-Skill-Path/*/vmlinux.h

@@ -10,3 +10,10 @@ Labs implemented:
 - lab4: verifier success/failure demo
 - challenge: beginner challenge starter/solution (execve counter baseline)
 
+# Getting started with eBPF 
+
+Lab: <https://isovalent.com/labs/ebpf-getting-started/>
+
+# Learning eBPF Tutorial 
+
+Tutorial: <https://isovalent.com/labs/ebpf-tutorial/>
